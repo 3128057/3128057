@@ -7,10 +7,10 @@ Me esfuerzo por diseñar soluciones sólidas y efectivas, siempre buscando la ex
 Estoy en búsqueda de oportunidades que me reten, me permitan crecer y contribuir de manera significativa, aportando ideas, esfuerzo y un enfoque orientado a resultados. 🚀
     
 <p align="left">
-  <a href="https://github.com/tenfusai?tab=followers">
-     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tenfusai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/tenfusai?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tenfusai?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=star"/>
+  <a href="https://github.com/3128057?tab=followers">
+     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/3128057?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/3128057?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/3128057?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=star"/>
 </p>
 
 #
@@ -28,7 +28,7 @@ Estoy en búsqueda de oportunidades que me reten, me permitan crecer y contribui
 
 ### 📊 Stats
 
-![d24a05's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenfusai&show_icons=true&theme=gruvbox)<br>
-![d24a05's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tenfusai&show_icons=true&theme=gruvbox&locale=en&layout=compact)
+![d24a05's GitHub stats](https://github-readme-stats.vercel.app/api?username=3128057&show_icons=true&theme=gruvbox)<br>
+![d24a05's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=3128057&show_icons=true&theme=gruvbox&locale=en&layout=compact)
 
 #
